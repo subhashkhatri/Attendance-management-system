@@ -54,13 +54,6 @@ The project follows the Model-View-Controller (MVC) architecture.
 - **Professor**: Manage and mark attendance, view attendance records.
 - **Student**: View attendance records.
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
 
 ## Acknowledgements
 
